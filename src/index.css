@@ -1,0 +1,9 @@
+@import "tailwindcss";
+body {
+  font-family: "El Messiri", sans-serif;
+  background-color: #fff;
+  /* height: 5000px; */
+}
+::-webkit-scrollbar{
+  display: none;
+}
